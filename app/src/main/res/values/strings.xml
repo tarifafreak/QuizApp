@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="question1">The Hammers is the nickname of what football team?</string>
+    <string name="question1answer1">Nottingham Forest F.C.</string>
+    <string name="question1answer2">FC Minyor Pernik</string>
+    <string name="question1answer3">West Ham United</string>
+
+    <string name="question2">Coventry City last won the FA Cup in what year?</string>
+    <string name="question2hint">Enter your answer here (no case sensitivity)</string>
+
+    <string name="question3">Teddy Johnson and Pearl Carr won the Eurovision Song Contest in 1959. What was the name of the song?</string>
+    <string name="question3answer1">Oui, Oui, Oui</string>
+    <string name="question3answer2">Sing, Little Birdie</string>
+    <string name="question3answer3">Een beetje</string>
+
+    <string name="question4">The development of the industrial proletariat is conditioned by what other development?</string>
+    <string name="question4answer1">The development of the economic wealth</string>
+    <string name="question4answer2">The development of the industrial bourgeoisie</string>
+    <string name="question4answer3">The development of the political class</string>
+
+    <string name="question5">The struggle of class against class is a what struggle?</string>
+    <string name="question5answer1">An economic struggle</string>
+    <string name="question5answer2">A political struggle</string>
+    <string name="question5answer3">A religious struggle</string>
+
+    <string name="question6">Who won the Cup Final in 1949?</string>
+    <string name="question6answer1">Manchester United</string>
+    <string name="question6answer2">Wolverhampton Wanderers</string>
+    <string name="question6answer3">Everton F.C.</string>
+
+    <string name="button_submit_answer">Submit your answer</string>
+</resources>
